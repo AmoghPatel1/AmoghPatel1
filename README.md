@@ -14,14 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫About Me :
-🔭 I’m currently working on web development.
-🌱 I’m currently learning more about React.
-👯 I’m looking to collaborate on projects.
 <!-- 🤔 I’m looking for help with  -->
 <!-- 💬 Ask me about web development and  stuff. -->
+# 💫About Me :
+🔭 I’m currently working on web development.
+
+🌱 I’m currently learning more about React.
+
+👯 I’m looking to collaborate on projects.
+
 📫 How to reach me: Twitter - @amoghpatel7
+
 😄 Pronouns: He/His
+
 ⚡ Fun fact: I spend almost 3-4 hours playing games every day.
 
 ## 🌐Socials
@@ -40,8 +45,8 @@ Here are some ideas to get you started:
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- ### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AmoghPatel1&icon=0&color=0)](https://visitcount.itsvg.in)
