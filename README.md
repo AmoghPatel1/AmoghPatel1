@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on projects.
 
-📫 How to reach me: Twitter - @amoghpatel7
+📫 How to reach me: Instagram @amoghpatel5
 
 😄 Pronouns: He/His
 
